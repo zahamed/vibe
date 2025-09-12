@@ -36,4 +36,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-youtube : 1.1.14 
+youtube : 1.39.13 
+
+
+npx inngest-cli@latest dev
+http://192.168.0.254:8288
