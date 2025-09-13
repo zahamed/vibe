@@ -36,8 +36,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-youtube : 1.39.13 
+youtube : 2.47.39
 
 
 npx inngest-cli@latest dev
 http://192.168.0.254:8288
+
+ e2b template build --name vibe-nextjs-test001
+
+ e2b template build --name vibe-nextjs-test0025 --cmd compile_page.sh
